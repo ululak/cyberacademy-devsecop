@@ -9,3 +9,4 @@ Ini adalaha aplikasi untuk melakukan trading, dengan bahasa python dan html. Tra
 Ulul Albab K
 
 anonim
+fulan bin fulan
